@@ -1,0 +1,385 @@
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.API\obj\Debug\net5.0\NZForum.API.csprojAssemblyReference.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.API\obj\Debug\net5.0\NZForum.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.API\obj\Debug\net5.0\NZForum.API.AssemblyInfoInputs.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.API\obj\Debug\net5.0\NZForum.API.AssemblyInfo.cs
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.API\obj\Debug\net5.0\NZForum.API.csproj.CoreCompileInputs.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.API\obj\Debug\net5.0\NZForum.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.exe
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.deps.json
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.json
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.dev.json
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.Manifest.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.xml
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\scopedcss\bundle\NZForum.Api.styles.css
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.genruntimeconfig.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CopyComplete
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.StaticWebAssets.xml
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.exe
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.deps.json
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.json
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.dev.json
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csprojAssemblyReference.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfoInputs.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfo.cs
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CoreCompileInputs.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.Manifest.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\scopedcss\bundle\NZForum.Api.styles.css
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CopyComplete
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.genruntimeconfig.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.json
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.exe
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.deps.json
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.json
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.dev.json
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\ref\NZForum.Api.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Humanizer.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csprojAssemblyReference.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfoInputs.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfo.cs
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CoreCompileInputs.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.Manifest.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.xml
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\scopedcss\bundle\NZForum.Api.styles.css
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.RazorTargetAssemblyInfo.cache
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CopyComplete
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\ref\NZForum.Api.dll
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.pdb
+E:\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.genruntimeconfig.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.exe
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.deps.json
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.json
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.dev.json
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.AssemblyReference.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfoInputs.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfo.cs
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CoreCompileInputs.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.Manifest.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.xml
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\scopedcss\bundle\NZForum.Api.styles.css
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.RazorTargetAssemblyInfo.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CopyComplete
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.genruntimeconfig.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.exe
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.deps.json
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.json
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.runtimeconfig.dev.json
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\NZForum.Api.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Infrastructure.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Persistence.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.AssemblyReference.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfoInputs.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.AssemblyInfo.cs
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CoreCompileInputs.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.Manifest.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\staticwebassets\NZForum.Api.StaticWebAssets.xml
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\scopedcss\bundle\NZForum.Api.styles.css
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.RazorTargetAssemblyInfo.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.csproj.CopyComplete
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\ref\NZForum.Api.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Api\NZForum.Api\obj\Debug\net5.0\NZForum.Api.genruntimeconfig.cache

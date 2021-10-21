@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Forum.Domain/1.0.0": {
+        "dependencies": {
+          "Common.Services": "1.0.0"
+        },
+        "runtime": {
+          "Forum.Domain.dll": {}
+        }
+      },
+      "Common.Services/1.0.0": {
+        "runtime": {
+          "Common.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forum.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

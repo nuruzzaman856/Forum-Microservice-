@@ -1,0 +1,85 @@
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.deps.json
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csprojAssemblyReference.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfoInputs.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfo.cs
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CoreCompileInputs.cache
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CopyComplete
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\Homayun\Documents\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.deps.json
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csprojAssemblyReference.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfoInputs.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfo.cs
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CoreCompileInputs.cache
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CopyComplete
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\Homayun\Desktop\New folder (2)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.pdb
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.deps.json
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.dll
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\ref\Forum.Application.dll
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.pdb
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.dll
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.dll
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.pdb
+E:\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.pdb
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csprojAssemblyReference.cache
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfoInputs.cache
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfo.cs
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CoreCompileInputs.cache
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CopyComplete
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.dll
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\ref\Forum.Application.dll
+E:\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.deps.json
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.AssemblyReference.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfoInputs.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfo.cs
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CoreCompileInputs.cache
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CopyComplete
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\nuruz\Desktop\ProjectForum\Microservice\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.deps.json
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Application.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Forum.Domain.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\bin\Debug\net5.0\Common.Services.pdb
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.AssemblyReference.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfoInputs.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.AssemblyInfo.cs
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CoreCompileInputs.cache
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.csproj.CopyComplete
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\ref\Forum.Application.dll
+C:\Users\nuruz\Desktop\My-Projects(Git-Hub)\Forum(Microservice)\Microservice\src\Forum\Core\Forum.Application\obj\Debug\net5.0\Forum.Application.pdb
